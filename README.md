@@ -9,7 +9,7 @@ A reusable ratio analysis engine: enter five years of statements and get growth,
 `Inputs` (income statement, balance sheet, cash flow, with a balance check) -> `Ratios` -> `Common_Size` -> `Charts` -> `Findings`
 
 ## Ratios covered
-Growth, gross / EBITDA / EBIT / net margin, ROE, ROA, ROCE, current / quick / cash ratio, debt-to-equity, net debt / EBITDA, interest cover, receivable / inventory / payable days, cash conversion cycle, asset turnover, free cash flow, CFO / net income, DuPont (margin x turnover x equity multiplier).
+Growth, gross / EBITDA / EBIT / net margin, ROE, ROA, ROCE, current / quick / cash ratio, debt to equity, net debt / EBITDA, interest cover, receivable / inventory / payable days, cash conversion cycle, asset turnover, free cash flow, CFO / net income, DuPont (margin x turnover x equity multiplier).
 
 ## Sample story in the demo data
 Revenue grows about 8% a year but margins fall, the cash conversion cycle stretches from 73 to 108 days, debt rises and free cash flow turns negative. The `Findings` sheet writes these facts automatically and asks six questions for the analyst's own interpretation.
