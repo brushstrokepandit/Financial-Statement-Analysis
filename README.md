@@ -3,7 +3,7 @@
 **File:** `Financial_Statement_Analysis.xlsx` | **Data:** FICTIONAL company (Illustrative Manufacturing Ltd), INR crore
 
 ## Objective
-A reusable ratio-analysis engine: enter five years of statements and get growth, profitability, liquidity, leverage, efficiency and cash flow ratios, a DuPont decomposition of ROE, common size statements and charts.
+A reusable ratio analysis engine: enter five years of statements and get growth, profitability, liquidity, leverage, efficiency and cash flow ratios, a DuPont decomposition of ROE, common size statements and charts.
 
 ## Sheets
 `Inputs` (income statement, balance sheet, cash flow, with a balance check) -> `Ratios` -> `Common_Size` -> `Charts` -> `Findings`
