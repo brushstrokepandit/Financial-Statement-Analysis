@@ -1,4 +1,4 @@
-# 4. Financial Statement Analysis
+# Financial Statement Analysis
 
 **File:** `Financial_Statement_Analysis.xlsx` | **Data:** FICTIONAL company (Illustrative Manufacturing Ltd), INR crore
 
